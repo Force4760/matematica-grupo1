@@ -18,6 +18,4 @@ Com um script python (scrap.py), foram recolhidos os dados sobre a altura das ma
 Estes dados foram guardados (data.csv).
 Em (analize.ipynb) os dados foram processados, representados, e foi feita uma regressão sinusoidal de modo a serem obtidos os parâmetros da expressão que define a função pretendida.
 
-![Gráfico](https://github.com/Force4760/matematica-grupo1/blob/master/grafico.PNG)
-
-Gonçalo Teixeira nº 12 | Tiago Sousa nº 26 | Tomás Pereira nº 28
+Gonçalo Teixeira nº 12 | Tiago Sousa nº 26 | Tomás Pereira nº 28 | Vasco Figueiredo nº 29
